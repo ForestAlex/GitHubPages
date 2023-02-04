@@ -10,7 +10,7 @@ Together they go on adventures. Electron likes to explain wave and particle beha
 
 *How to apply quantum?*
 
-Together, they make a great team! They explore  ...
+Together, they make a great team and explore  ...
 
 
 1) The building blocks of quantum programs
