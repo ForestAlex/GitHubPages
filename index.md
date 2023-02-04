@@ -6,10 +6,7 @@ Hello from qat! 😸
 
 Qat is a curious cat, its best friend is electron. :electron:
 
-Together they go on adventures.
-
-Electron likes to explain wave and particle behaviour.
-On the other side, qat likes to think about the math behind it.
+Together they go on adventures. Electron likes to explain wave and particle behaviour. On the other side, qat likes to think about the math behind it.
 
 How to program a quantum computer?
 How to do quantum calculations *right*?
@@ -17,6 +14,7 @@ How to apply quantum?
 
 Together, they make a great team to explore  ...
 
+## Curriculum
 1) The building blocks of quantum programs
 2) Linear algebra I
 3) Functional analysis I
@@ -33,10 +31,16 @@ Together, they make a great team to explore  ...
 14) Parameterized circuits & QML
 15) Molecular simulation & Drug Design
 
+## Last Module
 A) Optional module: Linear algebra II
+
 B) Optional module: Functional analysis II
+
 C) Optional module: Build a Quantum Neural Network
+
 D) Optional module: Quantum (Noisy) Hardware
+
 D) Optional module: Quantum for Medicine
+
 E) Optional module: Quantum for Art
 
