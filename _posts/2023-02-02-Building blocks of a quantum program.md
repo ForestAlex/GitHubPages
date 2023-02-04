@@ -1,6 +1,6 @@
 
 ---
-title: "Building blocks of a quantum program"
+title: "Building-blocks-of-a-quantum-program"
 date: 2023-04-02
 ---
 
