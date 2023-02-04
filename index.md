@@ -13,7 +13,6 @@ Together they go on adventures. Electron likes to explain wave and particle beha
 Together, they make a great team! They explore  ...
 
 
-__Curriculum__
 1) The building blocks of quantum programs
 2) Linear algebra I
 3) Functional analysis I
@@ -31,8 +30,6 @@ __Curriculum__
 15) Molecular simulation & Drug Design
 
 
-
-__Last Module__
 
 A) Optional module: Linear algebra II
 
