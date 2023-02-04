@@ -4,14 +4,13 @@ Qat is a curious cat, its best friend is electron. :electron:
 
 Together they go on adventures. Electron likes to explain wave and particle behaviour. On the other side, qat likes to think about the math behind it.
 
-Together, they make a great team to explore  ...
+*How to program a quantum computer?*
 
-How to program a quantum computer?
+*How to do quantum calculations right?*
 
-How to do quantum calculations *right*?
+*How to apply quantum?*
 
-How to apply quantum?
-
+Together, they make a great team! They explore  ...
 
 
 __Curriculum__
