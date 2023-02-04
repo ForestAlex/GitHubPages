@@ -4,13 +4,18 @@ title: Welcome to my blog
 
 Hello from qat! 😸
 
-Quat is a curious cat, her best friend is electron. :electron:
-Together they will go on adventures and calculations now.
+Qat is a curious cat, its best friend is electron. :electron:
 
-Electron will mainly explain wave and particle behaviour.
+Together they go on adventures.
 
+Electron likes to explain wave and particle behaviour.
 On the other side, qat likes to think about the math behind it.
-Together they build a great team to explore ...
+
+How to program a quantum computer?
+How to do quantum calculations *right*?
+How to apply quantum?
+
+Together, they make a great team to explore  ...
 
 1) The building blocks of quantum programs
 2) Linear algebra I
@@ -30,7 +35,8 @@ Together they build a great team to explore ...
 
 A) Optional module: Linear algebra II
 B) Optional module: Functional analysis II
-C) Optional module: Build a quantum neural network
+C) Optional module: Build a Quantum Neural Network
+D) Optional module: Quantum (Noisy) Hardware
 D) Optional module: Quantum for Medicine
 E) Optional module: Quantum for Art
 
