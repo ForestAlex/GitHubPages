@@ -14,7 +14,7 @@ How to apply quantum?
 
 Together, they make a great team to explore  ...
 
-## Curriculum
+__Curriculum__
 1) The building blocks of quantum programs
 2) Linear algebra I
 3) Functional analysis I
@@ -31,7 +31,7 @@ Together, they make a great team to explore  ...
 14) Parameterized circuits & QML
 15) Molecular simulation & Drug Design
 
-## Last Module
+__Last Module___
 A) Optional module: Linear algebra II
 
 B) Optional module: Functional analysis II
