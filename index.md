@@ -1,8 +1,4 @@
----
-title: Welcome to my blog
----
-
-Hello from qat! 😸
+**Hello from qat and electron! 😸**
 
 Qat is a curious cat, its best friend is electron. :electron:
 
