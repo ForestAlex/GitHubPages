@@ -1,4 +1,4 @@
-**Hello from qat and electron! 😸**
+**Hello from qat! 😸**
 
 Qat is a curious cat, its best friend is electron. :electron:
 
