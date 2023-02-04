@@ -2,3 +2,35 @@
 title: Welcome to my blog
 ---
 
+Hello from qat! 😸
+
+Quat is a curious cat, her best friend is electron. :electron:
+Together they will go on adventures and calculations now.
+
+Electron will mainly explain wave and particle behaviour.
+
+On the other side, qat likes to think about the math behind it.
+Together they build a great team to explore ...
+
+1) The building blocks of quantum programs
+2) Linear algebra I
+3) Functional analysis I
+4) How to describe a qubit
+5) How to describe gates
+6) Travelling around the Bloch sphere
+7) Building entanglement and understanding measurement
+8) Building circuits and data analysis
+9) Wave-particle duality I: Running physics experiments on your laptop
+10) Wave-particle duality II: Running radioactive decay on your laptop
+11) Research on current quantum questions
+12) Algorithms I
+13) Algorithms II
+14) Parameterized circuits & QML
+15) Molecular simulation & Drug Design
+
+A) Optional module: Linear algebra II
+B) Optional module: Functional analysis II
+C) Optional module: Build a quantum neural network
+D) Optional module: Quantum for Medicine
+E) Optional module: Quantum for Art
+
