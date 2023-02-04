@@ -33,7 +33,7 @@ __Curriculum__
 14) Parameterized circuits & QML
 15) Molecular simulation & Drug Design
 
-\n
+
 
 __Last Module__
 
