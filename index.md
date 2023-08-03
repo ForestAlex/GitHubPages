@@ -1,6 +1,6 @@
 **Hello from qat! 😸**
 
-Qat is a curious cat, its best friend is electron. :electron:
+Qat is a curious cat, its best friend is electron! :electron:
 
 Together they go on adventures. Electron likes to explain wave and particle behaviour. On the other side, qat likes to think about the math behind it.
 
